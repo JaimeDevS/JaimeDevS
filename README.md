@@ -1,4 +1,4 @@
-![banner](https://github.com/JaimeDevS/JaimeDevS/blob/main/banner.png)
+![banner](https://github.com/JaimeDevS/JaimeDevS/blob/main/banner.jpg)
 
 ### Hi there 👋
 
