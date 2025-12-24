@@ -1,4 +1,6 @@
-![banner](https://github.com/JaimeDevS/JaimeDevS/blob/main/banner.jpg)
+<p align="center">
+  <img src="https://github.com/JaimeDevS/JaimeDevS/blob/main/banner1.jpg" width="100%">
+</p>
 
 <h1 align="center">Olá 👋, sou Jaime</h1>
 <h3 align="center">Um apaixonado por engenharia de software</h3>
