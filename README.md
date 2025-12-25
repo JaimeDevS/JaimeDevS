@@ -2,7 +2,7 @@
   <img src="https://github.com/JaimeDevS/JaimeDevS/blob/main/banner1.jpg" width="100%">
 </p>
 
-<h1 align="center">Olá 👋, sou Jaime</h1>
+<h1 align="center">Olá 👋, sou Jaime Mendes</h1>
 <h3 align="center">Um apaixonado por engenharia de software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimedevs&label=Profile%20views&color=0e75b6&style=flat" alt="jaimedevs" /> </p>
